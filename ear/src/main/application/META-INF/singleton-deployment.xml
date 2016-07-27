@@ -1,0 +1,2 @@
+<?xml version="1.0" ?>
+<singleton-deployment xmlns="urn:jboss:singleton-deployment:1.0" policy="scada-singleton"/>
